@@ -16,11 +16,6 @@
 			path = CoreFeatures;
 			sourceTree = "<group>";
 		};
-		88A636AE3064919B00ED3E57 /* Features */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = Features;
-			sourceTree = "<group>";
-		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -39,7 +34,6 @@
 			children = (
 				88A634F23064370B00ED3E57 /* CoreFeatures */,
 				88A634F13064370B00ED3E57 /* Products */,
-				88A636AE3064919B00ED3E57 /* Features */,
 			);
 			sourceTree = "<group>";
 		};
@@ -68,7 +62,6 @@
 			);
 			fileSystemSynchronizedGroups = (
 				88A634F23064370B00ED3E57 /* CoreFeatures */,
-				88A636AE3064919B00ED3E57 /* Features */,
 			);
 			name = CoreFeatures;
 			packageProductDependencies = (
